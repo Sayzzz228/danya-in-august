@@ -19,4 +19,4 @@
 
 ### Страница на Nginx
 
-![Страница Nginx](screenshots/nginx-page.png)
+![Страница Nginx](screenshots/image.png)
