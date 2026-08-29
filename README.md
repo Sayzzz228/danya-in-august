@@ -15,7 +15,7 @@
 
 ### Терминал Ubuntu
 
-![Терминал](screenshots/terminal.png)
+![Терминал](screenshots/изображение_2026-08-29_215549043.png)
 
 ### Страница на Nginx
 
